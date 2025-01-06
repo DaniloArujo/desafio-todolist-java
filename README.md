@@ -11,3 +11,6 @@ Exemplo Get
 
 exemplo PUT
 ![image](https://github.com/user-attachments/assets/70eef6af-6e39-4a00-8915-788881db1305)
+
+Exemplo DELETE
+![image](https://github.com/user-attachments/assets/633eb513-34d5-47d1-a1b8-f1dfbab29746)
