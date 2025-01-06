@@ -14,3 +14,6 @@ exemplo PUT
 
 Exemplo DELETE
 ![image](https://github.com/user-attachments/assets/633eb513-34d5-47d1-a1b8-f1dfbab29746)
+
+Json no navegador
+![image](https://github.com/user-attachments/assets/6629c1a6-24b6-43a9-bd9d-16d01daf94b4)
